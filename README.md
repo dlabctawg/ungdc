@@ -5,3 +5,5 @@ Content in /data is taken from:
 Mikhaylov, Slava; Baturo, Alexander; Dasandi, Niheer, 2017, "United Nations General Debate Corpus", doi:10.7910/DVN/0TJX8Y, Harvard Dataverse, V4
 
 More information in /data/README.txt.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlabctawg/ungdc/master)
