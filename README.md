@@ -7,3 +7,7 @@ Mikhaylov, Slava; Baturo, Alexander; Dasandi, Niheer, 2017, "United Nations Gene
 More information in /data/README.txt.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlabctawg/ungdc/master)
+
+# NOTES
+
+We are currently testing the fork/merge/fast-forward/oops/abandon/fork-again process on 2018-04-25
