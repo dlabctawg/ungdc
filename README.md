@@ -11,3 +11,5 @@ More information in /data/README.txt.
 # NOTES
 
 We are currently testing the fork/merge/fast-forward/oops/abandon/fork-again process on 2018-04-25
+
+Now we are going to try a different kind of PR merge strategy.
