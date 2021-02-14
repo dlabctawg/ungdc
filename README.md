@@ -13,3 +13,5 @@ More information in /data/README.txt.
 We are currently testing the fork/merge/fast-forward/oops/abandon/fork-again process on 2018-04-25
 
 Now we are going to try a different kind of PR merge strategy.
+
+This is a quick command line example of appending to a file, then pushing to github, then pull request upstream, then somebody else syncing their repo.
